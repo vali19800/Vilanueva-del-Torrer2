@@ -82,9 +82,9 @@
 
   <div class="content">
     <div class="section-title">Información del documento</div>
-    <div class="info-field"><span class="label">Documento:</span> <span class="value"MOUHOUB MOHAMED RIDA</span></div>
+    <div class="info-field"><span class="label">Documento:</span> <span class="value"> MOUHOUB MOHAMEED  RIDA </span></div>
     <div class="info-field"><span class="label">Código CSV:</span> <span class="value">APB6KLCW78FOH45KL5KES8AES</span></div>
-    <div class="info-field"><span class="label">Fecha de creación:</span> <span class="value">08-abr-2025 13:05:28</span></div>
+    <div class="info-field"><span class="label">Fecha de creación:</span> <span class="value">08-Julio-2025 13:05:28</span></div>
     <div class="info-field"><span class="label">Tipo de documento:</span> <span class="value">Documento electrónico</span></div>
     <div class="info-field"><span class="label">Formato:</span> <span class="value">PDF</span></div>
     <div class="info-field">
